@@ -23,7 +23,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 header img{
@@ -44,7 +43,7 @@ header p{
     display: flex;
 }
 .heder-text {
-    width: 240px;
+    width: 250px;
     text-align: center;
     padding: 20px;
 }
